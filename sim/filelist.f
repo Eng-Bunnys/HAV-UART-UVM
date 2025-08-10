@@ -1,0 +1,9 @@
+../rtl/uart.sv
+../tb/tb_top.sv
+../tb/interfaces.sv
+../tb/agent/agent_pkg.sv
+../tb/agent/driver.sv
+../tb/agent/monitor.sv
+../tb/sequences/uart_sequences.sv
+../tb/scoreboard/scoreboard.sv
+../tb/regmodel/uart_regmodel.sv
